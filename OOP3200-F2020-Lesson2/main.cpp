@@ -94,7 +94,7 @@ int main()
 	double distance;
 
 
-	double myDouble = ConsoleInput::ReadDouble();
+	//double myDouble = ConsoleInput::ReadDouble();
 
 
 	try
